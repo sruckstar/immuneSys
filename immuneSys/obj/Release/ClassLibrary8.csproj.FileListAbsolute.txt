@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\bin\Release\ClassLibrary8.dll
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\bin\Release\ClassLibrary8.pdb
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\bin\Release\ScriptHookVDotNet2.dll
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.csproj.CopyComplete
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.dll
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.pdb
+C:\Users\user\source\repos\ClassLibrary8\ClassLibrary8\bin\Release\NativeUI.dll
